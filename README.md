@@ -1,9 +1,11 @@
 E-commerce Data Analysis Project
 
 Overview
+
   This repository contains an E-commerce data analysis project that utilizes Python, Pandas, and MySQL to import and process data from various CSV files related to an e-commerce platform. The goal is to set up a database, load customer, order, product, and payment data, and conduct insightful analyses using SQL queries and visualization tools.
 
 Project Structure
+
 The project imports data from the following CSV files:
 
   customers.csv: Contains customer information.
@@ -21,7 +23,9 @@ The project imports data from the following CSV files:
   sellers.csv: Information about sellers.
   
 
+
 Technologies Used
+
   Python: For data manipulation and analysis.
   
   Pandas: For handling and processing data.
@@ -32,6 +36,7 @@ Technologies Used
   
 
 Getting Started
+
   To set up the project on your local machine:
   
 
