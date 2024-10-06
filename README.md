@@ -23,11 +23,6 @@ Technologies Used
 Getting Started
   To set up the project on your local machine:
 
-Clone the Repository:
-
-  git clone https://github.com/yourusername/repository.git
-  cd repository
-
 Install Required Packages:
   Make sure you have the necessary Python packages installed. You can use pip to install them if you haven't already:
 
